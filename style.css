@@ -1,0 +1,24 @@
+body {
+    background-color: #3cb188; /* Ganti dengan warna yang diinginkan */
+}
+
+.jumbotron {
+    background-color: #007bff;
+    color: rgb(255, 255, 255);
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+body {
+
+    background-color: #f0f0f0; /* Ganti dengan warna yang diinginkan */
+}
+
+body {
+    background-color: #f0f0f0; /* Mengubah latar belakang menjadi abu-abu terang */
+}
+.header {
+    background-color: #007bff; /* Mengubah latar belakang elemen dengan kelas 'header' menjadi biru */
+}
