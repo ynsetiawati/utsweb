@@ -4,7 +4,7 @@ body {
 
 .jumbotron {
     background-color: #007bff;
-    color: rgb(26, 188, 156);
+    color: rgb(26, 188, 156); /* Mengganti warna latar belakang menjadi hijau tosca */
 }
 
 footer {
@@ -17,7 +17,7 @@ body {
 }
 
 body {
-    background-color:  #1abc9c; /* Mengubah latar belakang menjadi abu-abu terang */
+    background-color:  #1abc9c; /* Mengubah latar belakang menjadi hijau tosca */
 }
 .header {
     background-color: #007bff; /* Mengubah latar belakang elemen dengan kelas 'header' menjadi biru */
